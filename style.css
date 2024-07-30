@@ -453,12 +453,6 @@
             gap: 30px;
           }
       
-          @media (max-width: 786px) {
-            display: flex;
-            flex-direction: column;
-            gap: 30px;
-          }
-      
           .bento-item {
             background-color: var(--base);
             border-radius: 15px; /* Apply border radius */
