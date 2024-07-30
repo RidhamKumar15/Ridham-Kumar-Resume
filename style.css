@@ -448,8 +448,9 @@
           height: auto;
       
           @media (max-width: 1024px) {
-            grid-template-columns: repeat(3, 1fr);
-            grid-template-rows: repeat(6, 1fr);
+           display: flex;
+            flex-direction: column;
+            gap: 30px;
           }
       
           @media (max-width: 786px) {
