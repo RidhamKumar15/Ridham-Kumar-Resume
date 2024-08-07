@@ -195,11 +195,11 @@
           a{
             &:hover{
 /*               background-image:url(imgs/linkedinwhite.png); */
-              /* background-size: 28pz; */
+              text-decoration: none;
             }
           }
         }
-/*         span{
+    /* span{
           @media (max-width:786px) {
             display: none;
   
