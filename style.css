@@ -214,8 +214,7 @@
           display: flex;
           justify-content: flex-end;
           img{
-            z-index: 10;
-            margin-top: -170px;
+            margin-top:-60px;
             max-width: 500px;
             margin-bottom: -85px;
           }
